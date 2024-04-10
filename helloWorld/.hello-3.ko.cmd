@@ -1,0 +1,1 @@
+savedcmd_/home/aditya/kernel_codes/helloWorld1/hello-3.ko := ld -r -m elf_x86_64 -z noexecstack --no-warn-rwx-segments --build-id=sha1  -T scripts/module.lds -o /home/aditya/kernel_codes/helloWorld1/hello-3.ko /home/aditya/kernel_codes/helloWorld1/hello-3.o /home/aditya/kernel_codes/helloWorld1/hello-3.mod.o

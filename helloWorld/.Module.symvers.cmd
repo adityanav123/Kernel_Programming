@@ -1,0 +1,1 @@
+savedcmd_/home/aditya/kernel_codes/helloWorld1/Module.symvers :=  scripts/mod/modpost -M        -o /home/aditya/kernel_codes/helloWorld1/Module.symvers -n -T /home/aditya/kernel_codes/helloWorld1/modules.order -i Module.symvers -e 
